@@ -12,6 +12,13 @@
 
 ---
 
+## Links & QR
+
+**Figma**  
+<img width="250" height="250" alt="CTL_figma (1)" src="https://github.com/user-attachments/assets/adbbcd7a-f678-4751-9033-39e9947079b8" />
+
+
+
 ## Overview
 
 **A tennis line-judging project designed to help players review whether a ball landed inside or outside the court line.**
@@ -67,9 +74,12 @@ The system analyzes the video around the pressed moment.
 
 ### Back-end
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 
 ### Model
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white) 
 
 
 ## Contributors
+
 
