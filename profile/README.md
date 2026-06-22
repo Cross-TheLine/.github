@@ -15,7 +15,7 @@
 ## Links & QR
 
 **Figma**  
-<img width="250" height="250" alt="CTL_figma (1)" src="https://github.com/user-attachments/assets/adbbcd7a-f678-4751-9033-39e9947079b8" />
+<img width="100" height="100" alt="CTL_figma (1)" src="https://github.com/user-attachments/assets/adbbcd7a-f678-4751-9033-39e9947079b8" />
 
 
 
@@ -31,6 +31,14 @@ This project solves that problem by combining:
 - AI-based ball tracking 🎾
 - server-side IN / OUT judgment ⛳️
 - replayable judgment clip storage 💼
+
+
+<img width="1326" height="851" alt="스크린샷 2026-06-22 오후 6 32 08" src="https://github.com/user-attachments/assets/d6155fe9-2359-4be8-8cd0-0a811624035e" />
+<img width="897" height="432" alt="스크린샷 2026-06-22 오후 6 32 24" src="https://github.com/user-attachments/assets/29e99abc-d2e6-457c-9b72-206e94826459" />
+
+<img width="1230" height="226" alt="스크린샷 2026-06-22 오후 6 32 54" src="https://github.com/user-attachments/assets/dcfd04c6-5b7a-4ce9-b486-eb7ff897fad3" />
+
+
 ## Key Features
 
 ### Mobile-based Line Judging
