@@ -86,6 +86,5 @@ The system analyzes the video around the pressed moment.
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white) 
 
 
-## Contributors
 
 
