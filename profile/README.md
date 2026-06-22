@@ -15,9 +15,7 @@
 ## Links & QR
 
 **Figma**  
-<img width="100" height="100" alt="CTL_figma (1)" src="https://github.com/user-attachments/assets/adbbcd7a-f678-4751-9033-39e9947079b8" />
-
-
+(https://www.figma.com/design/Bx0W34yOOzlsdTEeWw99Pa/CTL_public?node-id=0-1&p=f&t=Uh3SfwASq7wNGwvp-0)
 
 ## Overview
 
